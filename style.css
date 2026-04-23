@@ -1,0 +1,16 @@
+body{
+    background-image: url(mangobackground.jpg);
+    backgroun-repeat: no-repeat;
+    background-position: center;
+    background-attatchment: fixed;
+    background-size: cover;
+}
+h1{
+    background-color: rgb(251, 255, 0);
+}
+h3{
+    background-color: rgb(251, 255, 0);
+}
+a{
+    margin-right : 15px;
+}
